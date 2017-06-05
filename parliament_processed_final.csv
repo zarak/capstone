@@ -1,0 +1,538 @@
+BillNumberOfPages,BillType,DaysUntilRoyalAssent,ParliamentNumber,SessionNumber,PrimeMinisterName,PrimeMinisterParty,SponsorGender,SponsorParty,SponsorTitle,BillMonthOfYear,IsSponsorInPower
+12.0,House Government Bill,372,42,1,Justin Trudeau,Liberal,M,Liberal,Minister of Finance,12,True
+20.0,House Government Bill,609,41,2,Stephen Harper,Conservative,F,Conservative,Minister of Health,10,True
+18.0,House Government Bill,13,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,6,True
+46.0,House Government Bill,111,40,3,Stephen Harper,Conservative,M,Conservative,Other,3,True
+84.0,House Government Bill,91,40,2,Stephen Harper,Conservative,M,Conservative,Other,1,True
+56.0,House Government Bill,133,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Justice,10,True
+274.0,House Government Bill,245,39,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,4,True
+40.0,House Government Bill,285,38,1,Paul Martin,Liberal,M,Liberal,Minister of Justice,10,True
+87.0,House Government Bill,222,37,2,Jean Chrétien,Liberal,M,Liberal,Minister of Indian Affairs and Northern Development,10,True
+15.0,House Government Bill,97,37,1,Jean Chrétien,Liberal,F,Liberal,Other,2,True
+8.0,House Government Bill,1,42,1,Justin Trudeau,Liberal,M,Liberal,President of the Treasury Board,12,True
+116.0,House Government Bill,417,41,2,Stephen Harper,Conservative,F,Conservative,Minister of Transport,10,True
+58.0,House Government Bill,12,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,6,True
+8.0,House Government Bill,279,40,3,Stephen Harper,Conservative,M,Conservative,Other,3,True
+6.0,House Government Bill,134,40,2,Stephen Harper,Conservative,M,Conservative,"Minister of Transport, Infrastructure and Communities",1,True
+24.0,House Government Bill,115,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Public Safety,10,True
+36.0,House Government Bill,283,39,1,Stephen Harper,Conservative,M,Conservative,"Minister of Transport, Infrastructure and Communities",4,True
+32.0,House Government Bill,258,38,1,Paul Martin,Liberal,M,Liberal,Minister of Transport,10,True
+33.0,House Government Bill,94,37,3,Paul Martin,Liberal,M,Liberal,Leader of the Government in the House of Commons,2,True
+26.0,House Government Bill,182,37,2,Jean Chrétien,Liberal,M,Liberal,Minister of Finance,10,True
+10.0,House Government Bill,132,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Natural Resources,2,True
+322.0,House Government Bill,51,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Finance,10,True
+198.0,House Government Bill,146,40,2,Stephen Harper,Conservative,F,Conservative,Other,1,True
+6.0,House Government Bill,17,39,1,Stephen Harper,Conservative,M,Conservative,Other,4,True
+124.0,House Government Bill,139,38,1,Paul Martin,Liberal,M,Liberal,Minister of Transport,10,True
+35.0,House Government Bill,49,37,3,Paul Martin,Liberal,M,Liberal,Leader of the Government in the House of Commons,2,True
+6.0,House Government Bill,133,37,2,Jean Chrétien,Liberal,M,Liberal,Minister of Natural Resources,10,True
+26.0,House Government Bill,132,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Natural Resources,2,True
+294.0,House Government Bill,238,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Natural Resources,10,True
+28.0,House Government Bill,106,40,2,Stephen Harper,Conservative,M,Conservative,Other,1,True
+16.0,House Government Bill,232,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Health,4,True
+22.0,House Government Bill,68,38,1,Paul Martin,Liberal,M,Liberal,Minister of Human Resources and Skills Development,10,True
+6.0,House Government Bill,29,37,3,Paul Martin,Liberal,M,Liberal,Leader of the Government in the House of Commons,2,True
+106.0,House Government Bill,64,37,2,Jean Chrétien,Liberal,M,Liberal,Minister of the Environment,10,True
+32.0,House Government Bill,377,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+12.0,House Government Bill,6,41,1,Stephen Harper,Conservative,F,Conservative,Other,6,True
+42.0,House Government Bill,8,40,3,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+26.0,House Government Bill,166,38,1,Paul Martin,Liberal,F,Liberal,Other,10,True
+44.0,House Government Bill,47,37,3,Paul Martin,Liberal,M,Liberal,Minister of Health,2,True
+41.0,House Government Bill,394,37,2,Jean Chrétien,Liberal,M,Liberal,Minister of Indian Affairs and Northern Development,10,True
+10.0,House Government Bill,316,37,1,Jean Chrétien,Liberal,M,Liberal,Other,2,True
+10.0,House Government Bill,48,41,2,Stephen Harper,Conservative,F,Conservative,Other,10,True
+134.0,House Government Bill,145,40,2,Stephen Harper,Conservative,M,Conservative,"Minister of Transport, Infrastructure and Communities",1,True
+30.0,House Government Bill,8,40,3,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+16.0,House Government Bill,139,38,1,Paul Martin,Liberal,M,Liberal,Minister of the Environment,10,True
+118.0,House Government Bill,85,37,3,Paul Martin,Liberal,M,Liberal,Minister of Transport,2,True
+197.0,House Government Bill,379,37,1,Jean Chrétien,Liberal,F,Liberal,Minister of Justice,2,True
+36.0,House Government Bill,3,42,1,Justin Trudeau,Liberal,M,Liberal,President of the Treasury Board,3,True
+54.0,House Government Bill,407,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Industry,10,True
+100.0,House Government Bill,4,41,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+14.0,House Government Bill,122,39,2,Stephen Harper,Conservative,M,Conservative,"Minister of Transport, Infrastructure and Communities",10,True
+1.0,House Government Bill,8,39,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,5,True
+8.0,House Government Bill,195,38,1,Paul Martin,Liberal,M,Liberal,President of the Treasury Board,10,True
+26.0,House Government Bill,71,37,3,Paul Martin,Liberal,F,Liberal,Other,2,True
+71.0,House Government Bill,64,37,2,Jean Chrétien,Liberal,F,Liberal,Minister of Health,10,True
+944.0,House Government Bill,127,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Finance,2,True
+28.0,House Government Bill,3,42,1,Justin Trudeau,Liberal,M,Liberal,President of the Treasury Board,3,True
+22.0,House Government Bill,164,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Aboriginal Affairs and Northern Development,10,True
+18.0,House Government Bill,4,41,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+44.0,House Government Bill,101,40,2,Stephen Harper,Conservative,M,Conservative,"Minister of Transport, Infrastructure and Communities",2,True
+904.0,House Government Bill,105,40,3,Stephen Harper,Conservative,M,Conservative,Minister of Finance,3,True
+28.0,House Government Bill,136,39,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+6.0,House Government Bill,392,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,5,True
+20.0,House Government Bill,258,38,1,Paul Martin,Liberal,M,Liberal,Other,10,True
+44.0,House Government Bill,92,37,3,Paul Martin,Liberal,F,Liberal,Minister of Industry,2,True
+64.0,House Government Bill,245,37,2,Jean Chrétien,Liberal,M,Liberal,Minister of the Environment,10,True
+24.0,House Government Bill,119,37,1,Jean Chrétien,Liberal,M,Liberal,Leader of the Government in the House of Commons,2,True
+8.0,House Government Bill,90,42,1,Justin Trudeau,Liberal,M,Liberal,Minister of Transport,3,True
+6.0,House Government Bill,366,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Justice,11,True
+152.0,House Government Bill,175,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,9,True
+551.0,House Government Bill,34,40,2,Stephen Harper,Conservative,M,Conservative,Minister of Finance,2,True
+54.0,House Government Bill,223,38,1,Paul Martin,Liberal,M,Liberal,Minister of Justice,10,True
+34.0,House Government Bill,478,37,1,Jean Chrétien,Liberal,F,Liberal,Other,2,True
+28.0,House Government Bill,215,37,2,Jean Chrétien,Liberal,M,Liberal,Minister of Justice,10,True
+12.0,House Government Bill,90,42,1,Justin Trudeau,Liberal,M,Liberal,Other,3,True
+76.0,House Government Bill,274,41,1,Stephen Harper,Conservative,M,Conservative,Other,9,True
+54.0,House Government Bill,134,40,2,Stephen Harper,Conservative,F,Conservative,Minister of Health,2,True
+24.0,House Government Bill,91,40,3,Stephen Harper,Conservative,M,Conservative,Other,3,True
+10.0,House Government Bill,108,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Indian Affairs and Northern Development,10,True
+59.0,House Government Bill,414,39,1,Stephen Harper,Conservative,M,Conservative,"Minister of Transport, Infrastructure and Communities",5,True
+34.0,House Government Bill,413,38,1,Paul Martin,Liberal,M,Liberal,President of the Treasury Board,10,True
+12.0,House Government Bill,84,37,3,Paul Martin,Liberal,M,Liberal,Minister of Indian Affairs and Northern Development,2,True
+6.0,House Government Bill,64,37,2,Jean Chrétien,Liberal,F,Liberal,Other,10,True
+142.0,House Government Bill,253,37,1,Jean Chrétien,Liberal,F,Liberal,Other,2,True
+6.0,House Government Bill,587,41,2,Stephen Harper,Conservative,M,Conservative,Other,11,True
+1.0,House Government Bill,14,40,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,2,True
+98.0,House Government Bill,46,39,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+16.0,House Government Bill,410,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Public Safety,5,True
+38.0,House Government Bill,217,38,1,Paul Martin,Liberal,M,Liberal,Minister of Health,10,True
+21.0,House Government Bill,161,37,2,Jean Chrétien,Liberal,F,Liberal,Other,10,True
+88.0,House Government Bill,113,37,1,Jean Chrétien,Liberal,F,Liberal,Minister of Justice,2,True
+66.0,House Government Bill,243,42,1,Justin Trudeau,Liberal,F,Liberal,Other,4,True
+70.0,House Government Bill,384,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Justice,11,True
+658.0,House Government Bill,72,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,10,True
+6.0,House Government Bill,78,40,3,Stephen Harper,Conservative,F,Conservative,Minister of Human Resources and Skills Development,4,True
+26.0,House Government Bill,213,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Justice,10,True
+198.0,House Government Bill,42,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,5,True
+40.0,House Government Bill,216,38,1,Paul Martin,Liberal,M,Liberal,Minister of Justice,10,True
+13.0,House Government Bill,46,37,3,Paul Martin,Liberal,M,Liberal,Minister of Justice,2,True
+52.0,House Government Bill,111,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Finance,2,True
+18.0,House Government Bill,64,42,1,Justin Trudeau,Liberal,F,Liberal,Minister of Justice,4,True
+30.0,House Government Bill,137,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Justice,11,True
+16.0,House Government Bill,117,40,2,Stephen Harper,Conservative,M,Conservative,Minister of Justice,2,True
+40.0,House Government Bill,342,40,3,Stephen Harper,Conservative,M,Conservative,Minister of Industry,4,True
+6.0,House Government Bill,403,39,1,Stephen Harper,Conservative,F,Conservative,Other,5,True
+74.0,House Government Bill,119,38,1,Paul Martin,Liberal,M,Liberal,Minister of Indian Affairs and Northern Development,10,True
+20.0,House Government Bill,63,37,2,Jean Chrétien,Liberal,M,Liberal,Minister of Natural Resources,10,True
+16.0,House Government Bill,70,37,3,Paul Martin,Liberal,M,Liberal,Minister of Justice,2,True
+234.0,House Government Bill,245,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Transport,3,True
+190.0,House Government Bill,63,42,1,Justin Trudeau,Liberal,M,Liberal,Minister of Finance,4,True
+240.0,House Government Bill,112,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Aboriginal Affairs and Northern Development,12,True
+90.0,House Government Bill,621,41,1,Stephen Harper,Conservative,M,Conservative,Other,10,True
+30.0,House Government Bill,35,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Agriculture and Agri-Food,5,True
+14.0,House Government Bill,46,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Natural Resources,10,True
+54.0,House Government Bill,205,38,1,Paul Martin,Liberal,M,Liberal,Minister of the Environment,10,True
+24.0,House Government Bill,92,37,3,Paul Martin,Liberal,F,Liberal,Other,2,True
+31.0,House Government Bill,231,37,2,Jean Chrétien,Liberal,M,Liberal,Minister of Industry,10,True
+107.0,House Government Bill,244,37,1,Jean Chrétien,Liberal,F,Liberal,Minister of Justice,10,True
+12.0,House Government Bill,89,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Aboriginal Affairs and Northern Development,12,True
+6.0,House Government Bill,53,41,1,Stephen Harper,Conservative,M,Conservative,Other,10,True
+226.0,House Government Bill,106,40,2,Stephen Harper,Conservative,M,Conservative,Minister of the Environment,3,True
+6.0,House Government Bill,338,39,1,Stephen Harper,Conservative,M,Conservative,Other,5,True
+44.0,House Government Bill,49,37,3,Paul Martin,Liberal,F,Liberal,Other,2,True
+20.0,House Government Bill,335,41,2,Stephen Harper,Conservative,F,Conservative,Minister of Health,12,True
+6.0,House Government Bill,49,40,2,Stephen Harper,Conservative,M,Conservative,Minister of the Environment,3,True
+56.0,House Government Bill,197,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,5,True
+24.0,House Government Bill,84,37,3,Paul Martin,Liberal,M,Liberal,Other,2,True
+10.0,House Government Bill,91,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Finance,3,True
+108.0,House Government Bill,443,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Agriculture and Agri-Food,12,True
+50.0,House Government Bill,58,41,1,Stephen Harper,Conservative,M,Conservative,Other,10,True
+14.0,House Government Bill,101,40,2,Stephen Harper,Conservative,M,Conservative,Minister of Public Safety,3,True
+66.0,House Government Bill,379,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,6,True
+8.0,House Government Bill,42,39,2,Stephen Harper,Conservative,M,Conservative,Other,11,True
+10.0,House Government Bill,142,38,1,Paul Martin,Liberal,F,Liberal,Other,11,True
+10.0,House Government Bill,46,37,3,Paul Martin,Liberal,M,Liberal,Minister of Finance,2,True
+6.0,House Government Bill,91,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Finance,3,True
+48.0,House Government Bill,8,42,1,Justin Trudeau,Liberal,M,Liberal,President of the Treasury Board,6,True
+60.0,House Government Bill,3,41,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,12,True
+22.0,House Government Bill,163,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Public Safety,10,True
+12.0,House Government Bill,182,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,6,True
+26.0,House Government Bill,8,42,1,Justin Trudeau,Liberal,M,Liberal,President of the Treasury Board,6,True
+50.0,House Government Bill,142,41,2,Stephen Harper,Conservative,M,Conservative,Other,1,True
+20.0,House Government Bill,50,41,1,Stephen Harper,Conservative,M,Conservative,Other,10,True
+76.0,House Government Bill,141,38,1,Paul Martin,Liberal,M,Liberal,Minister of Indian Affairs and Northern Development,11,True
+14.0,House Government Bill,81,37,3,Paul Martin,Liberal,M,Liberal,Other,2,True
+,House Government Bill,10,37,1,Jean Chrétien,Liberal,F,Liberal,President of the Treasury Board,3,True
+8.0,House Government Bill,449,41,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,1,True
+10.0,House Government Bill,324,40,3,Stephen Harper,Conservative,M,Conservative,Minister of Justice,5,True
+1.0,House Government Bill,2,40,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+6.0,House Government Bill,218,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Indian Affairs and Northern Development,11,True
+21.0,House Government Bill,7,37,2,Jean Chrétien,Liberal,F,Liberal,President of the Treasury Board,12,True
+6.0,House Government Bill,65,37,3,Paul Martin,Liberal,M,Liberal,Minister of Finance,2,True
+,House Government Bill,10,37,1,Jean Chrétien,Liberal,F,Liberal,President of the Treasury Board,3,True
+184.0,House Government Bill,392,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Natural Resources,1,True
+8.0,House Government Bill,25,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Aboriginal Affairs and Northern Development,11,True
+10.0,House Government Bill,321,40,3,Stephen Harper,Conservative,M,Conservative,Minister of Justice,5,True
+1.0,House Government Bill,2,40,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+32.0,House Government Bill,246,38,1,Paul Martin,Liberal,M,Liberal,Other,11,True
+518.0,House Government Bill,85,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Finance,3,True
+252.0,House Government Bill,135,41,2,Stephen Harper,Conservative,M,Conservative,Other,2,True
+44.0,House Government Bill,227,41,1,Stephen Harper,Conservative,M,Conservative,Other,11,True
+46.0,House Government Bill,215,39,2,Stephen Harper,Conservative,M,Conservative,"Minister of Transport, Infrastructure and Communities",11,True
+40.0,House Government Bill,246,38,1,Paul Martin,Liberal,M,Liberal,Minister of Human Resources and Skills Development,11,True
+70.0,House Government Bill,426,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Industry,4,True
+12.0,House Government Bill,12,40,3,Stephen Harper,Conservative,M,Conservative,Minister of Public Safety,6,True
+66.0,House Government Bill,133,41,2,Stephen Harper,Conservative,M,Conservative,Other,2,True
+82.0,House Government Bill,395,41,1,Stephen Harper,Conservative,M,Conservative,Other,11,True
+10.0,House Government Bill,48,40,3,Stephen Harper,Conservative,M,Conservative,Other,5,True
+84.0,House Government Bill,84,40,2,Stephen Harper,Conservative,M,Conservative,Other,3,True
+114.0,House Government Bill,85,39,1,Stephen Harper,Conservative,M,Conservative,Other,9,True
+20.0,House Government Bill,107,38,1,Paul Martin,Liberal,M,Liberal,Minister of Finance,11,True
+200.0,House Government Bill,141,37,2,Jean Chrétien,Liberal,M,Liberal,Other,1,True
+6.0,House Government Bill,63,37,3,Paul Martin,Liberal,M,Liberal,Other,3,True
+141.0,House Government Bill,257,37,1,Jean Chrétien,Liberal,F,Liberal,Minister of Justice,4,True
+6.0,House Government Bill,114,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Aboriginal Affairs and Northern Development,2,True
+52.0,House Government Bill,224,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,11,True
+8.0,House Government Bill,209,40,2,Stephen Harper,Conservative,M,Conservative,Minister of Justice,3,True
+48.0,House Government Bill,70,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,10,True
+32.0,House Government Bill,367,38,1,Paul Martin,Liberal,M,Liberal,Other,11,True
+307.0,House Government Bill,274,37,2,Jean Chrétien,Liberal,F,Liberal,President of the Treasury Board,2,True
+15.0,House Government Bill,70,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Agriculture and Agri-Food,4,True
+28.0,House Government Bill,477,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Justice,2,True
+10.0,House Government Bill,219,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,11,True
+6.0,House Government Bill,209,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,10,True
+92.0,House Government Bill,345,38,1,Paul Martin,Liberal,F,Liberal,Other,11,True
+1.0,House Government Bill,9,37,3,Paul Martin,Liberal,M,Liberal,President of the Treasury Board,3,True
+36.0,House Government Bill,51,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Finance,4,True
+88.0,House Government Bill,70,42,1,Justin Trudeau,Liberal,M,Liberal,Minister of Finance,10,True
+12.0,House Government Bill,392,41,2,Stephen Harper,Conservative,M,Conservative,Other,3,True
+10.0,House Government Bill,490,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Aboriginal Affairs and Northern Development,11,True
+1.0,House Government Bill,9,37,3,Paul Martin,Liberal,M,Liberal,President of the Treasury Board,3,True
+20.0,House Government Bill,414,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Natural Resources,4,True
+32.0,House Government Bill,3,41,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+12.0,House Government Bill,483,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,11,True
+84.0,House Government Bill,204,40,3,Stephen Harper,Conservative,M,Conservative,Minister of Industry,5,True
+28.0,House Government Bill,45,40,2,Stephen Harper,Conservative,M,Conservative,Other,4,True
+390.0,House Government Bill,23,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Finance,11,True
+138.0,House Government Bill,126,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,10,True
+8.0,House Government Bill,361,38,1,Paul Martin,Liberal,M,Liberal,Minister of Health,11,True
+4.0,House Government Bill,49,37,3,Paul Martin,Liberal,M,Liberal,Minister of the Environment,3,True
+272.0,House Government Bill,86,37,2,Jean Chrétien,Liberal,M,Liberal,Minister of Finance,3,True
+56.0,House Government Bill,10,37,1,Jean Chrétien,Liberal,M,Liberal,Leader of the Government in the House of Commons,6,True
+30.0,House Government Bill,3,41,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+66.0,House Government Bill,10,41,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,12,True
+16.0,House Government Bill,45,40,2,Stephen Harper,Conservative,M,Conservative,Minister of Agriculture and Agri-Food,5,True
+6.0,House Government Bill,153,38,1,Paul Martin,Liberal,M,Liberal,Minister of Industry,12,True
+16.0,House Government Bill,2,37,2,Jean Chrétien,Liberal,F,Liberal,President of the Treasury Board,3,True
+,House Government Bill,2,37,1,Jean Chrétien,Liberal,F,Liberal,President of the Treasury Board,6,True
+244.0,House Government Bill,51,42,1,Justin Trudeau,Liberal,M,Liberal,Minister of Finance,10,True
+10.0,House Government Bill,64,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Agriculture and Agri-Food,3,True
+22.0,House Government Bill,296,40,3,Stephen Harper,Conservative,M,Conservative,Minister of Justice,5,True
+32.0,House Government Bill,204,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Indian Affairs and Northern Development,11,True
+20.0,House Government Bill,139,38,1,Paul Martin,Liberal,M,Liberal,Leader of the Government in the House of Commons,12,True
+122.0,House Government Bill,44,37,3,Paul Martin,Liberal,M,Liberal,Minister of Finance,3,True
+20.0,House Government Bill,2,37,2,Jean Chrétien,Liberal,F,Liberal,President of the Treasury Board,3,True
+179.0,House Government Bill,190,37,1,Jean Chrétien,Liberal,F,Liberal,Minister of Justice,9,True
+140.0,House Government Bill,197,42,1,Justin Trudeau,Liberal,M,Liberal,Other,10,True
+380.0,House Government Bill,83,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Finance,3,True
+56.0,House Government Bill,133,41,1,Stephen Harper,Conservative,M,Conservative,Other,2,True
+10.0,House Government Bill,197,40,3,Stephen Harper,Conservative,F,Conservative,Minister of Human Resources and Skills Development,6,True
+6.0,House Government Bill,203,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Justice,11,True
+26.0,House Government Bill,241,39,1,Stephen Harper,Conservative,M,Conservative,Other,10,True
+18.0,House Government Bill,70,37,2,Jean Chrétien,Liberal,M,Liberal,Other,4,True
+21.0,House Government Bill,89,37,1,Jean Chrétien,Liberal,M,Liberal,Other,9,True
+68.0,House Government Bill,385,41,2,Stephen Harper,Conservative,M,Conservative,Other,4,True
+8.0,House Government Bill,495,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,2,True
+16.0,House Government Bill,135,40,2,Stephen Harper,Conservative,F,Conservative,Minister of Health,5,True
+146.0,House Government Bill,89,37,1,Jean Chrétien,Liberal,M,Liberal,Other,9,True
+18.0,House Government Bill,3,41,1,Stephen Harper,Conservative,F,Conservative,Other,3,True
+8.0,House Government Bill,17,40,2,Stephen Harper,Conservative,M,Conservative,Other,6,True
+10.0,House Government Bill,206,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Agriculture and Agri-Food,12,True
+82.0,House Government Bill,156,38,1,Paul Martin,Liberal,M,Liberal,Minister of Finance,12,True
+109.0,House Government Bill,222,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Indian Affairs and Northern Development,9,True
+12.0,House Government Bill,52,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Aboriginal Affairs and Northern Development,4,True
+56.0,House Government Bill,15,41,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+10.0,House Government Bill,22,40,3,Stephen Harper,Conservative,M,Conservative,Other,6,True
+16.0,House Government Bill,203,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Indian Affairs and Northern Development,12,True
+18.0,House Government Bill,20,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Indian Affairs and Northern Development,11,True
+1.0,House Government Bill,6,38,1,Paul Martin,Liberal,M,Liberal,President of the Treasury Board,12,True
+115.0,House Government Bill,83,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Transport,9,True
+8.0,House Government Bill,407,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Justice,5,True
+38.0,House Government Bill,15,41,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+8.0,House Government Bill,288,40,3,Stephen Harper,Conservative,M,Conservative,Other,6,True
+1.0,House Government Bill,8,39,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,12,True
+1.0,House Government Bill,6,38,1,Paul Martin,Liberal,M,Liberal,President of the Treasury Board,12,True
+21.0,House Government Bill,211,37,1,Jean Chrétien,Liberal,M,Liberal,Other,10,True
+42.0,House Government Bill,14,42,1,Justin Trudeau,Liberal,M,Liberal,President of the Treasury Board,12,True
+50.0,House Government Bill,155,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Justice,6,True
+6.0,House Government Bill,274,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,3,True
+44.0,House Government Bill,189,40,3,Stephen Harper,Conservative,F,Conservative,Minister of Health,6,True
+42.0,House Government Bill,157,39,1,Stephen Harper,Conservative,M,Conservative,Other,11,True
+8.0,House Government Bill,76,38,1,Paul Martin,Liberal,M,Liberal,Other,12,True
+184.0,House Government Bill,64,37,1,Jean Chrétien,Liberal,F,Liberal,Minister of Justice,10,True
+96.0,House Government Bill,157,42,1,Justin Trudeau,Liberal,F,Liberal,Minister of Health,12,True
+10.0,House Government Bill,13,41,2,Stephen Harper,Conservative,M,Conservative,Leader of the Government in the House of Commons,6,True
+6.0,House Government Bill,421,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,4,True
+16.0,House Government Bill,129,39,2,Stephen Harper,Conservative,F,Conservative,Other,12,True
+242.0,House Government Bill,122,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,11,True
+10.0,House Government Bill,347,38,1,Paul Martin,Liberal,M,Liberal,Minister of Industry,12,True
+88.0,House Government Bill,176,37,2,Jean Chrétien,Liberal,M,Liberal,Other,5,True
+18.0,House Government Bill,155,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Indian Affairs and Northern Development,10,True
+66.0,House Government Bill,9,41,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+452.0,House Government Bill,64,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,4,True
+24.0,House Government Bill,9,40,2,Stephen Harper,Conservative,M,Conservative,Minister of the Environment,6,True
+6.0,House Government Bill,1,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Natural Resources,12,True
+96.0,House Government Bill,14,39,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,11,True
+16.0,House Government Bill,169,38,1,Paul Martin,Liberal,M,Liberal,Minister of Justice,2,True
+8.0,House Government Bill,54,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Transport,10,True
+14.0,House Government Bill,9,41,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+12.0,House Government Bill,3,41,1,Stephen Harper,Conservative,F,Conservative,Other,5,True
+4.0,House Government Bill,8,40,2,Stephen Harper,Conservative,M,Conservative,Other,6,True
+1.0,House Government Bill,14,39,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,11,True
+10.0,House Government Bill,44,38,1,Paul Martin,Liberal,M,Liberal,Minister of Finance,2,True
+150.0,House Government Bill,147,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Indian Affairs and Northern Development,10,True
+16.0,House Government Bill,17,37,2,Jean Chrétien,Liberal,M,Liberal,Other,6,True
+44.0,House Government Bill,314,41,2,Stephen Harper,Conservative,F,Conservative,Other,6,True
+82.0,House Government Bill,22,41,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+4.0,House Government Bill,155,40,3,Stephen Harper,Conservative,F,Conservative,Minister of Human Resources and Skills Development,6,True
+12.0,House Government Bill,73,39,2,Stephen Harper,Conservative,M,Conservative,Other,2,True
+134.0,House Government Bill,199,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,12,True
+6.0,House Government Bill,69,38,1,Paul Martin,Liberal,M,Liberal,Minister of Agriculture and Agri-Food,3,True
+55.0,House Government Bill,47,37,1,Jean Chrétien,Liberal,F,Liberal,Minister of Justice,11,True
+34.0,House Government Bill,9,42,1,Justin Trudeau,Liberal,M,Liberal,President of the Treasury Board,3,True
+114.0,House Government Bill,64,41,2,Stephen Harper,Conservative,M,Conservative,Other,9,True
+46.0,House Government Bill,22,41,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+14.0,House Government Bill,3,40,2,Stephen Harper,Conservative,M,Conservative,Other,6,True
+4.0,House Government Bill,2,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Finance,2,True
+1.0,House Government Bill,1,38,1,Paul Martin,Liberal,M,Liberal,President of the Treasury Board,3,True
+10.0,House Government Bill,134,37,1,Jean Chrétien,Liberal,M,Liberal,Other,11,True
+28.0,House Government Bill,9,42,1,Justin Trudeau,Liberal,M,Liberal,President of the Treasury Board,3,True
+26.0,House Government Bill,254,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+126.0,House Government Bill,364,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Public Safety,6,True
+6.0,House Government Bill,279,40,3,Stephen Harper,Conservative,M,Conservative,"Minister of Transport, Infrastructure and Communities",6,True
+12.0,House Government Bill,31,39,2,Stephen Harper,Conservative,F,Conservative,Other,2,True
+6.0,House Government Bill,192,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Health,12,True
+1.0,House Government Bill,1,38,1,Paul Martin,Liberal,M,Liberal,President of the Treasury Board,3,True
+46.0,House Government Bill,136,37,2,Jean Chrétien,Liberal,M,Liberal,Minister of the Environment,6,True
+478.0,House Government Bill,54,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Finance,10,True
+22.0,House Government Bill,364,41,1,Stephen Harper,Conservative,M,Conservative,Other,6,True
+128.0,House Government Bill,97,38,1,Paul Martin,Liberal,M,Liberal,Minister of Finance,3,True
+30.0,House Government Bill,203,37,1,Jean Chrétien,Liberal,M,Liberal,Leader of the Government in the House of Commons,11,True
+10.0,House Government Bill,178,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+36.0,House Government Bill,85,41,1,Stephen Harper,Conservative,F,Conservative,Minister of Human Resources and Skills Development,9,True
+72.0,House Government Bill,12,40,3,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+14.0,House Government Bill,3,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Agriculture and Agri-Food,2,True
+4.0,House Government Bill,20,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Transport,11,True
+16.0,House Government Bill,8,37,2,Jean Chrétien,Liberal,M,Liberal,Other,6,True
+50.0,House Government Bill,13,41,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,12,True
+430.0,House Government Bill,57,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,10,True
+48.0,House Government Bill,12,40,3,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+63.0,House Government Bill,23,38,1,Paul Martin,Liberal,F,Liberal,Other,4,True
+26.0,House Government Bill,148,37,2,Jean Chrétien,Liberal,M,Liberal,Minister of Justice,6,True
+,House Government Bill,14,37,1,Jean Chrétien,Liberal,F,Liberal,President of the Treasury Board,12,True
+56.0,House Government Bill,192,41,2,Stephen Harper,Conservative,M,Conservative,Other,12,True
+40.0,House Government Bill,13,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,10,True
+12.0,House Government Bill,54,39,1,Stephen Harper,Conservative,M,Conservative,Other,2,True
+7.0,House Government Bill,13,37,1,Jean Chrétien,Liberal,F,Liberal,Minister of Justice,12,True
+60.0,House Government Bill,80,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Justice,12,True
+192.0,House Government Bill,225,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Aboriginal Affairs and Northern Development,11,True
+152.0,House Government Bill,76,40,3,Stephen Harper,Conservative,M,Conservative,Minister of Finance,9,True
+22.0,House Government Bill,112,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Industry,3,True
+30.0,House Government Bill,7,37,2,Jean Chrétien,Liberal,F,Liberal,President of the Treasury Board,6,True
+268.0,House Government Bill,189,37,1,Jean Chrétien,Liberal,M,Liberal,Other,12,True
+962.0,House Government Bill,217,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,11,True
+8.0,House Government Bill,169,40,3,Stephen Harper,Conservative,M,Conservative,Minister of Justice,10,True
+67.0,House Government Bill,4,40,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+16.0,House Government Bill,70,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,3,True
+1.0,House Government Bill,1,39,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+6.0,House Government Bill,75,38,1,Paul Martin,Liberal,M,Liberal,Minister of Finance,5,True
+28.0,House Government Bill,147,37,2,Jean Chrétien,Liberal,M,Liberal,Minister of Finance,6,True
+25.0,House Government Bill,4,40,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+1.0,House Government Bill,7,39,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+1.0,House Government Bill,1,39,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+12.0,House Government Bill,197,38,1,Paul Martin,Liberal,M,Liberal,Minister of Justice,5,True
+124.0,House Government Bill,50,37,1,Jean Chrétien,Liberal,M,Liberal,Minister of Finance,2,True
+56.0,House Government Bill,4,41,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,12,True
+16.0,House Government Bill,50,40,2,Stephen Harper,Conservative,F,Conservative,Minister of Human Resources and Skills Development,9,True
+1.0,House Government Bill,7,39,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+152.0,House Government Bill,96,39,2,Stephen Harper,Conservative,M,Conservative,Minister of Finance,3,True
+13.0,House Government Bill,50,37,2,Jean Chrétien,Liberal,M,Liberal,Other,9,True
+68.0,House Government Bill,128,37,1,Jean Chrétien,Liberal,M,Liberal,Other,2,True
+74.0,House Government Bill,139,41,2,Stephen Harper,Conservative,M,Conservative,Other,1,True
+24.0,House Government Bill,197,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Public Safety,12,True
+60.0,House Government Bill,76,40,2,Stephen Harper,Conservative,M,Conservative,Minister of Finance,9,True
+,House Government Bill,8,37,1,Jean Chrétien,Liberal,F,Liberal,President of the Treasury Board,3,True
+58.0,House Government Bill,118,41,2,Stephen Harper,Conservative,F,Conservative,Minister of Transport,2,True
+18.0,House Government Bill,197,41,1,Stephen Harper,Conservative,M,Conservative,"Minister of Transport, Infrastructure and Communities",12,True
+148.0,House Government Bill,85,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,3,True
+,House Government Bill,8,37,1,Jean Chrétien,Liberal,F,Liberal,President of the Treasury Board,3,True
+6.0,House Government Bill,55,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,1,True
+18.0,House Government Bill,179,38,1,Paul Martin,Liberal,M,Liberal,Minister of Justice,5,True
+32.0,House Government Bill,7,41,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+34.0,House Government Bill,177,38,1,Paul Martin,Liberal,M,Liberal,Minister of Indian Affairs and Northern Development,6,True
+34.0,House Government Bill,7,41,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+12.0,House Government Bill,44,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,2,True
+16.0,House Government Bill,127,40,3,Stephen Harper,Conservative,M,Conservative,Other,11,True
+156.0,House Government Bill,175,38,1,Paul Martin,Liberal,M,Liberal,Minister of Industry,6,True
+14.0,House Government Bill,10,37,2,Jean Chrétien,Liberal,F,Liberal,President of the Treasury Board,10,True
+70.0,House Government Bill,42,40,2,Stephen Harper,Conservative,F,Conservative,Minister of Human Resources and Skills Development,11,True
+18.0,House Government Bill,17,38,1,Paul Martin,Liberal,M,Liberal,Minister of Indian Affairs and Northern Development,6,True
+286.0,House Government Bill,172,38,1,Paul Martin,Liberal,M,Liberal,Minister of Finance,6,True
+44.0,House Government Bill,7,41,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+62.0,House Government Bill,6,40,3,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,12,True
+1.0,House Government Bill,13,39,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+1.0,House Government Bill,9,38,1,Paul Martin,Liberal,M,Liberal,President of the Treasury Board,6,True
+172.0,House Government Bill,47,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Finance,5,True
+38.0,House Government Bill,7,41,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,3,True
+16.0,House Government Bill,42,40,3,Stephen Harper,Conservative,M,Conservative,Minister of Public Safety,2,True
+6.0,House Government Bill,21,39,1,Stephen Harper,Conservative,M,Conservative,Minister of Justice,6,True
+1.0,House Government Bill,13,39,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+,House Government Bill,7,37,1,Jean Chrétien,Liberal,F,Liberal,President of the Treasury Board,6,True
+128.0,House Government Bill,58,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Finance,4,True
+20.0,House Government Bill,12,39,2,Stephen Harper,Conservative,M,Conservative,Other,6,True
+1.0,House Government Bill,15,39,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+8.0,House Government Bill,21,41,2,Stephen Harper,Conservative,F,Conservative,Other,6,True
+14.0,House Government Bill,20,40,3,Stephen Harper,Conservative,M,Conservative,Other,3,True
+14.0,House Government Bill,14,39,1,Stephen Harper,Conservative,M,Conservative,Other,6,True
+14.0,House Government Bill,19,41,1,Stephen Harper,Conservative,M,Conservative,Minister of Aboriginal Affairs and Northern Development,5,True
+36.0,House Government Bill,11,40,2,Stephen Harper,Conservative,M,Conservative,Minister of Finance,12,True
+24.0,House Government Bill,15,41,2,Stephen Harper,Conservative,M,Conservative,Minister of Aboriginal Affairs and Northern Development,6,True
+82.0,House Government Bill,14,41,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+6.0,House Government Bill,18,41,2,Stephen Harper,Conservative,M,Conservative,Other,6,True
+18.0,House Government Bill,14,41,1,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+,House Government Bill,5,40,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,12,True
+66.0,House Government Bill,10,41,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+10.0,House Government Bill,50,38,1,Paul Martin,Liberal,M,Liberal,Minister of Finance,10,True
+32.0,House Government Bill,10,41,2,Stephen Harper,Conservative,M,Conservative,President of the Treasury Board,6,True
+12.0,House Government Bill,23,38,1,Paul Martin,Liberal,M,Liberal,Minister of Indian Affairs and Northern Development,11,True
+8.0,House Government Bill,8,41,2,Stephen Harper,Conservative,F,Conservative,Other,6,True
+4.0,Private Member’s Bill,260,37,2,Jean Chrétien,Liberal,M,Canadian Alliance,Other,10,False
+7.0,Private Member’s Bill,58,37,3,Paul Martin,Liberal,M,Liberal,Other,2,True
+6.0,Private Member’s Bill,246,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+4.0,Private Member’s Bill,437,42,1,Justin Trudeau,Liberal,M,Liberal,Other,2,True
+3.0,Private Member’s Bill,175,37,2,Jean Chrétien,Liberal,M,Liberal,Other,10,True
+4.0,Private Member’s Bill,610,41,2,Stephen Harper,Conservative,M,Liberal,Other,10,False
+3.0,Private Member’s Bill,87,37,3,Paul Martin,Liberal,M,NDP,Other,2,False
+5.0,Private Member’s Bill,392,39,1,Stephen Harper,Conservative,M,Conservative,Other,5,True
+3.0,Private Member’s Bill,387,38,1,Paul Martin,Liberal,M,Conservative,Other,11,False
+4.0,Private Member’s Bill,58,37,3,Paul Martin,Liberal,M,Liberal,Other,2,True
+6.0,Private Member’s Bill,426,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+5.0,Private Member’s Bill,118,40,3,Stephen Harper,Conservative,F,Conservative,Other,3,True
+3.0,Private Member’s Bill,406,39,1,Stephen Harper,Conservative,M,Conservative,Other,5,True
+3.0,Private Member’s Bill,281,41,1,Stephen Harper,Conservative,M,Liberal,Other,9,False
+4.0,Private Member’s Bill,246,39,2,Stephen Harper,Conservative,M,Liberal,Other,10,False
+4.0,Private Member’s Bill,275,41,1,Stephen Harper,Conservative,M,Conservative,Other,9,True
+11.0,Private Member’s Bill,401,39,1,Stephen Harper,Conservative,M,Liberal,Other,5,False
+4.0,Private Member’s Bill,246,39,2,Stephen Harper,Conservative,M,Liberal,Other,10,False
+5.0,Private Member’s Bill,546,41,1,Stephen Harper,Conservative,F,Conservative,Other,9,True
+8.0,Private Member’s Bill,226,39,2,Stephen Harper,Conservative,M,Liberal,Other,10,False
+3.0,Private Member’s Bill,401,39,1,Stephen Harper,Conservative,M,Conservative,Other,5,True
+4.0,Private Member’s Bill,184,39,2,Stephen Harper,Conservative,F,Liberal,Other,10,False
+3.0,Private Member’s Bill,636,41,1,Stephen Harper,Conservative,M,Conservative,Other,9,True
+5.0,Private Member’s Bill,442,41,1,Stephen Harper,Conservative,M,Conservative,Other,9,True
+3.0,Private Member’s Bill,87,38,1,Paul Martin,Liberal,M,Liberal,Other,11,True
+4.0,Private Member’s Bill,635,41,1,Stephen Harper,Conservative,M,Conservative,Other,9,True
+3.0,Private Member’s Bill,85,38,1,Paul Martin,Liberal,M,Conservative,Other,12,False
+4.0,Private Member’s Bill,625,41,1,Stephen Harper,Conservative,M,Conservative,Other,10,True
+4.0,Private Member’s Bill,269,41,1,Stephen Harper,Conservative,F,Conservative,Other,10,True
+3.0,Private Member’s Bill,269,41,1,Stephen Harper,Conservative,M,Conservative,Other,10,True
+3.0,Private Member’s Bill,438,41,1,Stephen Harper,Conservative,F,Conservative,Other,10,True
+3.0,Private Member’s Bill,632,41,1,Stephen Harper,Conservative,M,Conservative,Other,10,True
+4.0,Private Member’s Bill,624,41,1,Stephen Harper,Conservative,M,Conservative,Other,10,True
+5.0,Private Member’s Bill,409,38,1,Paul Martin,Liberal,M,Conservative,Other,10,False
+3.0,Private Member’s Bill,483,41,1,Stephen Harper,Conservative,M,Conservative,Other,11,True
+10.0,Private Member’s Bill,622,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+25.0,Private Member’s Bill,554,41,1,Stephen Harper,Conservative,M,Conservative,Other,12,True
+8.0,Private Member’s Bill,246,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+3.0,Private Member’s Bill,92,37,2,Jean Chrétien,Liberal,M,Liberal,Other,3,True
+5.0,Private Member’s Bill,421,41,1,Stephen Harper,Conservative,F,NDP,Other,5,False
+7.0,Private Member’s Bill,426,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+6.0,Private Member’s Bill,426,41,2,Stephen Harper,Conservative,F,Green Party,Other,10,False
+5.0,Private Member’s Bill,387,40,3,Stephen Harper,Conservative,M,Conservative,Other,3,True
+4.0,Private Member’s Bill,246,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+4.0,Private Member’s Bill,610,41,2,Stephen Harper,Conservative,F,Independent,Other,10,False
+5.0,Private Member’s Bill,226,39,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+5.0,Private Member’s Bill,17,37,2,Jean Chrétien,Liberal,M,Bloc Québécois,Other,10,False
+7.0,Private Member’s Bill,225,41,2,Stephen Harper,Conservative,F,Conservative,Other,10,True
+3.0,Private Member’s Bill,287,40,3,Stephen Harper,Conservative,M,Liberal,Other,3,False
+16.0,Private Member’s Bill,226,39,2,Stephen Harper,Conservative,M,Liberal,Other,11,False
+4.0,Private Member’s Bill,387,40,3,Stephen Harper,Conservative,M,Conservative,Other,3,True
+7.0,Private Member’s Bill,554,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+5.0,Private Member’s Bill,426,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+6.0,Private Member’s Bill,246,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+4.0,Private Member’s Bill,386,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+8.0,Private Member’s Bill,426,41,2,Stephen Harper,Conservative,M,Conservative,Other,10,True
+4.0,Private Member’s Bill,568,41,2,Stephen Harper,Conservative,M,Conservative,Other,11,True
+9.0,Private Member’s Bill,442,41,2,Stephen Harper,Conservative,M,Conservative,Other,4,True
+6.0,Private Member’s Bill,435,41,2,Stephen Harper,Conservative,M,Conservative,Other,4,True
+5.0,Private Member’s Bill,273,41,2,Stephen Harper,Conservative,F,Conservative,Other,9,True
+8.0,Senate Government Bill,604,41,2,Stephen Harper,Conservative,M,Conservative,Leader of the Government in the Senate,10,True
+50.0,Senate Government Bill,630,41,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,9,True
+16.0,Senate Government Bill,133,40,2,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,1,True
+52.0,Senate Government Bill,273,40,3,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,3,True
+48.0,Senate Government Bill,57,39,2,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,10,True
+12.0,Senate Government Bill,338,39,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,4,True
+3.0,Senate Public Bill,211,38,1,Paul Martin,Liberal,M,Conservative,Senator,10,False
+194.0,Senate Government Bill,71,37,2,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,10,True
+126.0,Senate Government Bill,99,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,1,True
+22.0,Senate Government Bill,603,41,2,Stephen Harper,Conservative,M,Conservative,Leader of the Government in the Senate,10,True
+122.0,Senate Government Bill,61,41,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,9,True
+10.0,Senate Government Bill,105,40,2,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,1,True
+78.0,Senate Government Bill,267,40,3,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,3,True
+72.0,Senate Government Bill,338,39,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,4,True
+4.0,Senate Public Bill,415,38,1,Paul Martin,Liberal,M,Liberal,,10,True
+23.0,Senate Government Bill,134,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,1,True
+28.0,Senate Government Bill,436,41,2,Stephen Harper,Conservative,M,Conservative,Leader of the Government in the Senate,4,True
+56.0,Senate Government Bill,224,41,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,10,True
+16.0,Senate Government Bill,205,40,2,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,3,True
+154.0,Senate Government Bill,99,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,1,True
+60.0,Senate Government Bill,44,42,1,Justin Trudeau,Liberal,M,Independent,Senator,11,False
+18.0,Senate Government Bill,216,41,2,Stephen Harper,Conservative,M,Conservative,Leader of the Government in the Senate,5,True
+156.0,Senate Government Bill,127,41,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,11,True
+6.0,Senate Government Bill,343,40,3,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,4,True
+76.0,Senate Government Bill,70,39,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,10,True
+3.0,Senate Public Bill,260,37,2,Jean Chrétien,Liberal,M,PC,Senator,10,False
+9.0,Senate Government Bill,99,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,1,True
+42.0,Senate Government Bill,380,41,2,Stephen Harper,Conservative,M,Conservative,Leader of the Government in the Senate,6,True
+10.0,Senate Government Bill,337,40,3,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,4,True
+18.0,Senate Government Bill,58,39,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,4,True
+14.0,Senate Government Bill,225,41,2,Stephen Harper,Conservative,M,Conservative,Leader of the Government in the Senate,11,True
+32.0,Senate Government Bill,435,41,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,2,True
+16.0,Senate Government Bill,476,41,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,2,True
+12.0,Senate Government Bill,449,41,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,3,True
+10.0,Senate Government Bill,198,40,3,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,5,True
+134.0,Senate Government Bill,57,38,1,Paul Martin,Liberal,M,PC,Leader of the Government in the Senate,10,False
+4.0,Senate Public Bill,321,37,1,Jean Chrétien,Liberal,M,Liberal,Senator,1,True
+64.0,Senate Government Bill,168,41,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,6,True
+307.0,Senate Government Bill,128,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,2,True
+8.0,Senate Government Bill,134,41,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,2,True
+4.0,Senate Public Bill,407,37,1,Jean Chrétien,Liberal,M,PC,,2,False
+18.0,Senate Government Bill,127,41,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,2,True
+5.0,Senate Private Bill,22,37,3,Paul Martin,Liberal,M,PC,Senator,3,False
+8.0,Senate Government Bill,114,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,2,True
+108.0,Senate Government Bill,105,41,1,Stephen Harper,Conservative,F,Conservative,Leader of the Government in the Senate,3,True
+148.0,Senate Government Bill,146,38,1,Paul Martin,Liberal,M,PC,Leader of the Government in the Senate,10,False
+10.0,Senate Government Bill,114,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,2,True
+6.0,Senate Government Bill,239,38,1,Paul Martin,Liberal,M,PC,Leader of the Government in the Senate,11,False
+8.0,Senate Private Bill,157,37,2,Jean Chrétien,Liberal,M,Liberal,Senator,6,True
+4.0,Senate Public Bill,405,37,1,Jean Chrétien,Liberal,M,PC,Senator,3,False
+207.0,Senate Government Bill,217,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,3,True
+15.0,Senate Government Bill,79,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,3,True
+4.0,Senate Private Bill,98,38,1,Paul Martin,Liberal,M,Liberal,Senator,2,True
+10.0,Senate Private Bill,77,37,1,Jean Chrétien,Liberal,M,Liberal,Senator,3,True
+4.0,Senate Private Bill,28,37,1,Jean Chrétien,Liberal,M,Liberal,Senator,5,True
+4.0,Senate Private Bill,28,37,1,Jean Chrétien,Liberal,M,Liberal,Senator,5,True
+6.0,Senate Government Bill,175,38,1,Paul Martin,Liberal,M,PC,Leader of the Government in the Senate,5,False
+216.0,Senate Government Bill,90,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,9,True
+28.0,Senate Government Bill,84,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,9,True
+5.0,Senate Government Bill,245,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,10,True
+6.0,Senate Government Bill,190,38,1,Paul Martin,Liberal,M,PC,Leader of the Government in the Senate,5,False
+10.0,Senate Government Bill,190,38,1,Paul Martin,Liberal,M,PC,Leader of the Government in the Senate,5,False
+10.0,Senate Government Bill,156,38,1,Paul Martin,Liberal,M,PC,Leader of the Government in the Senate,5,False
+6.0,Senate Government Bill,91,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,3,True
+6.0,Senate Government Bill,366,37,1,Jean Chrétien,Liberal,F,Liberal,Leader of the Government in the Senate,3,True
+12.0,Senate Public Bill,513,42,1,Justin Trudeau,Liberal,M,Liberal,Senator,12,True
+6.0,Senate Public Bill,534,41,1,Stephen Harper,Conservative,M,Liberal,Senator,6,False
+9.0,Senate Public Bill,183,39,2,Stephen Harper,Conservative,M,Liberal,Senator,10,False
+6.0,Senate Public Bill,394,41,1,Stephen Harper,Conservative,M,Liberal,Senator,10,False
+4.0,Senate Public Bill,245,39,2,Stephen Harper,Conservative,M,Liberal,Senator,10,False
+6.0,Senate Public Bill,525,42,1,Justin Trudeau,Liberal,F,Liberal,Senator,12,True
+6.0,Senate Public Bill,461,41,1,Stephen Harper,Conservative,M,Conservative,Senator,3,True
+7.0,Senate Public Bill,281,40,3,Stephen Harper,Conservative,M,Liberal,Senator,3,False
+6.0,Senate Public Bill,390,41,2,Stephen Harper,Conservative,F,Conservative,Senator,11,True
+6.0,Senate Public Bill,365,41,2,Stephen Harper,Conservative,M,Conservative,Senator,12,True
+6.0,Senate Public Bill,225,41,1,Stephen Harper,Conservative,F,Conservative,Senator,11,True
+4.0,Senate Public Bill,266,40,3,Stephen Harper,Conservative,F,Conservative,Senator,3,True
+7.0,Senate Public Bill,212,39,2,Stephen Harper,Conservative,F,Conservative,Senator,10,True
+6.0,Senate Public Bill,363,41,2,Stephen Harper,Conservative,F,Liberal,Senator,4,False
+6.0,Senate Public Bill,378,41,2,Stephen Harper,Conservative,M,Conservative,Senator,4,True
+4.0,Senate Public Bill,91,39,2,Stephen Harper,Conservative,M,Liberal,Senator,11,False
+6.0,Senate Public Bill,293,41,2,Stephen Harper,Conservative,M,Conservative,Senator,5,True
+4.0,Senate Private Bill,36,42,1,Justin Trudeau,Liberal,M,Liberal,Senator,5,True
+6.0,Senate Private Bill,174,41,2,Stephen Harper,Conservative,F,Conservative,Senator,6,True
+10.0,Senate Private Bill,18,41,1,Stephen Harper,Conservative,M,PC,Senator,6,False
+7.0,Senate Private Bill,239,39,1,Stephen Harper,Conservative,M,Conservative,Senator,6,True
+6.0,Senate Private Bill,15,41,1,Stephen Harper,Conservative,M,Conservative,Senator,11,True
+6.0,Senate Private Bill,45,41,1,Stephen Harper,Conservative,M,Conservative,Senator,4,True
